@@ -59,9 +59,9 @@ function App() {
           <SmartControls />
           <ProductShowcase />
           <OurStory />
-          <TeamSection />
           <AchievementsTimeline />
           <FutureVision />
+          <TeamSection />
           <Contact />
         </main>
         <Footer />
