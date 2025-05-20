@@ -6,6 +6,7 @@ import FeaturesShowcase from './components/FeaturesShowcase';
 import SmartControls from './components/SmartControls';
 import ProductShowcase from './components/ProductShowcase';
 import OurStory from './components/OurStory';
+import TeamSection from './components/TeamSection';
 import AchievementsTimeline from './components/AchievementsTimeline';
 import FutureVision from './components/FutureVision';
 import Contact from './components/Contact';
@@ -58,6 +59,7 @@ function App() {
           <SmartControls />
           <ProductShowcase />
           <OurStory />
+          <TeamSection />
           <AchievementsTimeline />
           <FutureVision />
           <Contact />
